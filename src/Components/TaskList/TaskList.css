@@ -1,0 +1,31 @@
+.task{
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 4px;
+    margin: 12px auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 1;
+}
+.deleting span{
+    transition-duration: 0.5s;
+    opacity: 0;
+    text-decoration: line-through;
+}
+.task button{
+    background-color: rgb(79, 236, 79);
+    width: 50px;
+    height: 30px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 15px grey;
+    cursor: pointer;
+    opacity: .8;
+}
+.task button:hover{
+    opacity: 1;
+}
+ul{
+    margin-bottom: 20px;
+}

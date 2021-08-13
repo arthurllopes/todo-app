@@ -1,0 +1,40 @@
+.addTask{
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+.addTask button{
+    background-color: rgb(79, 236, 79);
+    font-weight: 900;
+    border-radius: 50%;
+    padding: 8px;
+    margin-left: 8px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: 2px solid #0cbb12;
+}
+.addTask button {
+    transition-duration: 0.4s;
+} 
+.addTask button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+input{
+    border-radius: 4px;
+    margin: 0;
+    width: 90%;
+    height: 34px;
+    padding: 8px;
+    outline: none;
+}
+.adding{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    width: 60%;
+}
