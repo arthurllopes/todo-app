@@ -1,9 +1,10 @@
 # Todo-App
 
-Projeto para praticar React. O projeto consiste em adicionar tarefas, e excluí-las quando concluidas.
-Nesse projeto, estou salvando os itens no Local Storage.
+Projeto parapraticar ReactJs.
 
 ## Projeto 
+ - O projeto consiste em adicionar tarefas, e excluí-las quando concluidas.
+ - Os dados estão sendo salvos no Local Storage.
 
 https://user-images.githubusercontent.com/82395681/129291474-737d9469-8328-43de-8243-eec87703e1d3.mp4
 
