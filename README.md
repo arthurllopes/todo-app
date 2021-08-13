@@ -1,6 +1,6 @@
 # Todo-App
 
-Projeto parapraticar ReactJs.
+Projeto para praticar ReactJs.
 
 ## Projeto 
  - O projeto consiste em adicionar tarefas, e excluí-las quando concluidas.
